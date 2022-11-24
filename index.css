@@ -1,0 +1,37 @@
+* {
+
+box-sizing: border-box;
+margin: 0;
+
+}
+
+
+/* IMG!!!  */
+
+.img-patroon {
+  width: 50%;
+  margin-top: -5em;
+  margin-left: 51em;
+
+}
+
+/* .img {
+  width: 140px;
+} */
+
+/* HET MENU!!! */
+
+ul {
+
+display: flex;
+justify-content: center;
+width: 100%;
+list-style: none;
+gap: 5em;
+margin-top: -19em;
+font-family:  montserrat, sans-serif;
+overflow: visible;
+margin-left: -6em;
+
+} 
+
