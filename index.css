@@ -5,6 +5,15 @@ margin: 0;
 
 }
 
+body {
+grid-template-columns: 1fr 1fr 1fr;
+grid-template-rows: 20% 10% 1fr 10%;
+grid-template-areas:
+"header header header"
+"nav nav nav"
+"main main main"
+"footer footer footer";
+}
 
 /* IMG!!!  */
 
@@ -19,6 +28,7 @@ margin-left: 51em;
 width: 9%;
 margin-top: -17em;
 margin-right: 51em;
+margin-left: 3em;
 }
 
 /* HET MENU!!! */
@@ -37,3 +47,6 @@ margin-left: -6em;
 
 } 
 
+.icon {
+  margin-right: 0em;
+}
