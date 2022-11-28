@@ -3,7 +3,6 @@
 box-sizing: border-box;
 margin: 0;  
 text-decoration: none;
-
 color: inherit;
 
 }
@@ -13,7 +12,7 @@ color: inherit;
 --pinda: #3a7e79;
 }
 
-.viniminilogo{
+.viniminilogo {
   width: 142px;
   margin-top: -4em;
   margin-left: 5em;
