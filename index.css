@@ -13,7 +13,8 @@
 .viniminilogo {
   width: 142px;
   margin-top: -4em;
-  margin-left: 5em;
+  margin-left: -7em;
+  position: absolute;
 } 
 
 .img-patroon {
@@ -35,10 +36,10 @@ nav {
 ul {
   list-style-type: none;
   display: flex;
-  gap: 5em;
+  gap: 4em;
   font-family: montserrat, sans-serif;
   margin-top: 72px;
-  margin-left: -5em;
+  margin-left: 7em;
   font-style: var(--black);
   z-index: 1;
 }
@@ -54,5 +55,8 @@ ul {
   margin-bottom: -2px;
 }
 
-
+.arrow {
+  padding-left: 0.5em;
+  margin-bottom: -4px;
+}
 
