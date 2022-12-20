@@ -1,9 +1,8 @@
-> _Fork_ deze leertaak en ga aan de slag. 
-Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. 
-De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# ✨ Look-and-feel-corporate-identity ✨
 <!-- Geef je project een titel en schrijf in één zin wat het is -->
+![image](https://user-images.githubusercontent.com/112861261/208646014-b4f8a585-d508-4113-b0b1-efb22a608a7d.png)
+
 
 ## Inhoudsopgave
 
@@ -15,9 +14,7 @@ De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+> Als ouder wil ik een checklist kunnen afvinken zodat ik weet welke supplementen ik al heb gegeven en welke ik nog moet doen.
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
