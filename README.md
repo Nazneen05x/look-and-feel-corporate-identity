@@ -20,8 +20,7 @@
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
 ## Installatie
-
-![image](https://user-images.githubusercontent.com/112861261/208648255-1e829dcb-fa9f-48b7-bdf2-f90388ec8d46.png)
+![image](https://user-images.githubusercontent.com/112861261/208648466-cfd49396-45b7-484a-a55c-e5815a7ee451.png)
 
 
 
