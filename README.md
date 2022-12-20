@@ -34,6 +34,8 @@ De afvinklijst is gemaakt met HTML en CSS.
 
 ## Gebruik
 
+✨ Bekijk hier de afvinklijst: https://nazneen05x.github.io/look-and-feel-corporate-identity/ ✨
+
 ## Bronnen
 
 ## Licentie
