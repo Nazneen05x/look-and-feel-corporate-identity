@@ -21,6 +21,10 @@
 
 ## Installatie
 
+![image](https://user-images.githubusercontent.com/112861261/208648255-1e829dcb-fa9f-48b7-bdf2-f90388ec8d46.png)
+
+
+
 ## Gebruik
 
 ## Bronnen
